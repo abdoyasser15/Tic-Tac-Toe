@@ -1,0 +1,11 @@
+H:\c# lvl 1\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.exe.config
+H:\c# lvl 1\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.exe
+H:\c# lvl 1\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.pdb
+H:\c# lvl 1\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.AssemblyReference.cache
+H:\c# lvl 1\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.SuggestedBindingRedirects.cache
+H:\c# lvl 1\Tic-Tac-Toe Game\obj\Debug\Tic_Tac_Toe_Game.Form1.resources
+H:\c# lvl 1\Tic-Tac-Toe Game\obj\Debug\Tic_Tac_Toe_Game.Properties.Resources.resources
+H:\c# lvl 1\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.GenerateResource.cache
+H:\c# lvl 1\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.CoreCompileInputs.cache
+H:\c# lvl 1\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.exe
+H:\c# lvl 1\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.pdb
